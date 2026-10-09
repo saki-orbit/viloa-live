@@ -1,0 +1,53 @@
+{
+  "programs": [
+    {
+      "id": "high-energy",
+      "error": "curl: (56) The requested URL returned error: 403",
+      "sourceUrl": "https://www.bilibili.com/video/BV13sNJ6xEX8/"
+    },
+    {
+      "id": "blue-soul",
+      "bvid": "BV1iv42117bo",
+      "aid": 1450332352,
+      "cid": 1472043844,
+      "title": "Playlist · 蓝调典藏 ♫ 新灵魂乐 Soul music | 心灵深处 | 私藏歌单 | 适合工作/学习/跳舞/地铁/居家",
+      "curator": "Kevin-Shih",
+      "sourceUrl": "https://www.bilibili.com/video/BV1iv42117bo/",
+      "officialPlayerUrl": "https://player.bilibili.com/player.html?bvid=BV1iv42117bo&cid=1472043844&autoplay=1&muted=0&danmaku=0&poster=0",
+      "duration": 1842,
+      "actualDuration": 1841.554512,
+      "codec": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "bandwidth": 207274,
+      "audio": "/audio/blue-soul-full.m4a",
+      "bytes": 47725208
+    },
+    {
+      "id": "brooklyn-rnb",
+      "bvid": "BV1Dz421k73z",
+      "aid": 1352980779,
+      "cid": 1500490181,
+      "title": "Playlist · 夜城纽约克 ♫ 节奏布鲁斯 R&B | 曼岛夜色 | 私藏歌单 | 适合工作/学习/跳舞/地铁/居家",
+      "curator": "Kevin-Shih",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Dz421k73z/",
+      "officialPlayerUrl": "https://player.bilibili.com/player.html?bvid=BV1Dz421k73z&cid=1500490181&autoplay=1&muted=0&danmaku=0&poster=0",
+      "duration": 1575,
+      "actualDuration": 1574.408413,
+      "codec": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "bandwidth": 203462,
+      "audio": "/audio/brooklyn-rnb-full.m4a",
+      "bytes": 40051965
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "rnb-nightcity",
+  "audio": "/audio/rnb-nightcity.m4a",
+  "duration": 1574.408413,
+  "sourceUrl": "https://www.bilibili.com/video/BV1Dz421k73z/",
+  "sourceTitle": "Playlist · 夜城纽约克 ♫ 节奏布鲁斯 R&B | 曼岛夜色 | 私藏歌单 | 适合工作/学习/跳舞/地铁/居家",
+  "sourceCreator": "Kevin-Shih",
+  "tracks": [
+    {
+      "title": "Last Day on Earth",
+      "artist": "Tai Verdes",
+      "start": 1,
+      "duration": 172
+    },
+    {
+      "title": "Motorbike",
+      "artist": "Johnny Stimson",
+      "start": 173,
+      "duration": 202
+    },
+    {
+      "title": "Slow Dance in the Morning",
+      "artist": "Jesse Gold",
+      "start": 375,
+      "duration": 178
+    },
+    {
+      "title": "Good Morning",
+      "artist": "PJ Morton",
+      "start": 553,
+      "duration": 162
+    },
+    {
+      "title": "double take",
+      "artist": "dhruv",
+      "start": 715,
+      "duration": 172
+    },
+    {
+      "title": "All That I Know",
+      "artist": "ZUHAIR",
+      "start": 887,
+      "duration": 229
+    },
+    {
+      "title": "Time Goes By",
+      "artist": "Jex Nwalor",
+      "start": 1116,
+      "duration": 268
+    },
+    {
+      "title": "Sea Gets Hotter",
+      "artist": "Durand Jones",
+      "start": 1384,
+      "duration": 190.4084130000001
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "kpop-melody-37",
+  "audio": "/audio/kpop-melody-37.m4a",
+  "duration": 2244.288,
+  "sourceUrl": "https://www.bilibili.com/video/BV126ga6hEoi/",
+  "sourceTitle": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭·kpop🎶传奇耐听王—旋律为王，拒绝吵闹｜动感间歇跑37min | 跑步 散步 爬坡 有氧 洗澡 化妆 作业 打扫 通勤",
+  "sourceCreator": "乐刻有氧必备歌单",
+  "description": "短裙-AOA\nThirsty-aespa\nDitto-NewJeans\nPerfect Night-LE SSERAFIM\nNOT CUTE ANYMORE-ILLIT\nTo.X-太妍\nLIKE THAT-BABYMONSTER\nFiction-BEAST\n八音盒-NCT DREAM\nPolaroid Love-ENHYPEN\nDARARI-TREASURE\n姐姐真漂亮-SHINee",
+  "chapters": [],
+  "tracks": [
+    {
+      "title": "Miniskirt",
+      "artist": "AOA"
+    },
+    {
+      "title": "Thirsty",
+      "artist": "aespa"
+    },
+    {
+      "title": "Ditto",
+      "artist": "NewJeans"
+    },
+    {
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM"
+    },
+    {
+      "title": "NOT CUTE ANYMORE",
+      "artist": "ILLIT"
+    },
+    {
+      "title": "To. X",
+      "artist": "TAEYEON"
+    },
+    {
+      "title": "LIKE THAT",
+      "artist": "BABYMONSTER"
+    },
+    {
+      "title": "Fiction",
+      "artist": "BEAST"
+    },
+    {
+      "title": "Life Is Still Going On",
+      "artist": "NCT DREAM"
+    },
+    {
+      "title": "Polaroid Love",
+      "artist": "ENHYPEN"
+    },
+    {
+      "title": "DARARI",
+      "artist": "TREASURE"
+    },
+    {
+      "title": "Replay",
+      "artist": "SHINee"
+    }
+  ],
+  "trackTimingStatus": "Source description supplies sequence only; precise per-track timestamps unavailable."
+}
